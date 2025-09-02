@@ -14,3 +14,5 @@ Agente de conversa (modelo em branco): achei interessante pela liberdade de pers
 Além da prática, enxerguei no Copilot Studio uma oportunidade de aplicação real em negócios, inclusive como possível fonte de renda extra, já que a criação de copilotos é acessível e de fácil manutenção. No entanto, percebo que ainda preciso me aprofundar para compreender melhor seu funcionamento e limitações, já que até agora tive contato apenas com a base inicial.
 
 De forma geral, este aprendizado abriu novos horizontes e mostrou como a ferramenta pode ser aplicada tanto em soluções simples quanto em projetos mais elaborados.
+
+![Meus Copilotos](./assets/copilot-projetos.png)
